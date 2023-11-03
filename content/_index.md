@@ -248,8 +248,8 @@ sections:
         country: China
         country_code: CN
       directions: East Building 1 Room 410
-      # office_hours:
-      #   - 'Monday 10:00 to 13:00'
+      office_hours:
+        - 'Monday-Friday 9:00 to 19:00'
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
