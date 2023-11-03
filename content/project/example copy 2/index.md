@@ -1,9 +1,9 @@
 ---
-title: Develop a structure-based molecular generation model
-summary: The project helps accelerate drug development.
+title: Develop a cancer-drug response prediction model
+summary: The model could accelerate drug discovery and precision medicine.
 tags:
-  - Deep Learning, CADD, Structure-based
-date: '2022.12–present'
+  - Deep learning; Drug response; Transfer learning; multi-modality fusion
+date: '2022.06–2023.09'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
