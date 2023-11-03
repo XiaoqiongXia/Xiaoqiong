@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Develop a structure-based molecular generation model
 summary: The project helps accelerate drug development.
 tags:
@@ -32,4 +32,4 @@ slides: example
 
 1. Used MGLTools and AutoDock-GPU to build a virtual screening process for molecular fragments on a Linux system and screen high-scored molecular fragments efficiently. 
 2. Developed a fragment growth model using a diffusion algorithm to generate reasonable candidate molecules with high affinity to the target. 
-3. Used the GROMACS tool to perform molecular dynamics simulation of the receptor-ligand complex.
+3. Used the GROMACS tool to perform molecular dynamics simulation of the receptor-ligand complex. -->
