@@ -7,7 +7,7 @@ tags:
 date: "2022.06–2023.09"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: ''
 
 image:
   caption: The framework of TransCDR
