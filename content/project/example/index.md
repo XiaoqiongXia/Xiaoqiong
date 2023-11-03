@@ -9,7 +9,7 @@ date: '2022.12–present'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: The pipeline of molecule generation process
   focal_point: Smart
 
 links:
