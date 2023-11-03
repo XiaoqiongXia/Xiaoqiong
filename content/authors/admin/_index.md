@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Xiaoqiong Xia
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xiaoqiong Xia
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiaoqiong
+last_name: Xia
 
 # Status emoji
 status:
@@ -17,35 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. at Fudan University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Fudan University
+    url: https://www.fudan.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Deep learning; Drug discovery; Drug target interaction; Drug response; Molecule generation; Molecular representation; CADD; Omics analysis; Knowledge graph.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Drug discovery
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+    - course: Ph.D. at Institutes of Biomedical Sciences
+      institution: Fudan University
+      year: 2019.09-2024.06
+    - course: B.S. at Biomedical engineering
+      institution: China Medical University
+      year: 2015.09-2019.06
+   
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
