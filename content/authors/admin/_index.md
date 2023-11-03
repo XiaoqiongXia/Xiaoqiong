@@ -3,7 +3,7 @@
 title: Xiaoqiong Xia
 
 # Name pronunciation (optional)
-name_pronunciation: Xiaoqiong Xia
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Xiaoqiong
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. at Fudan University
+role: Ph.D. focus on AI for drug discovery
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,9 +29,15 @@ bio: My research interests include Deep learning; Drug discovery; Drug target in
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Deep learning
   - Drug discovery
+  - Drug target interaction
+  - Drug response
+  - Molecule generation
+  - Molecular representation
+  - CADD
+  - Omics analysis
+  - Knowledge graph
 
 # Education to show in About widget
 education:
@@ -46,42 +52,50 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Professional skill
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Python (PyTorch), R, Linux, GPU
+        description: 'Familiar with Linux systems, proficient in R, Python, and PyTorch framework to build, train, and test models and GPU acceleration.'
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
+      - name: Deep learning algorithms
+        description: 'Familiar with CNN/RNN/Transformer model, GCN/GAT/EGNN model and diffusion model'
         percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
+        icon: computer
+        icon_pack: 
+      - name: Database
+        description: 'Familiar with open-source databases for compound/gene/protein/perturbation expression profiles and omics data analysis processes'
+        percent: 100
         icon: database
         icon_pack: fas
-  - name: Hobbies
+      - name: Graph representation
+        description: 'Proficient in utilizing PyG and DGL Python packages for graph representation'
+        percent: 100
+        icon: bug
+        icon_pack: fas
+      - name: CADD Tools
+        description: 'Proficient in PyMOL, MOE, AutoDock, RDKit, and GROMACS for molecular docking and molecular dynamics simulation'
+        percent: 100
+        icon: list
+        icon_pack: fas
+
+
+  - name: personal strength
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
+      - name: Languge
+        description: 'Good English reading and writing skills, CET-6:558'
         percent: 100
-        icon: cat
+        icon: books
         icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+      - name: Social contact
+        description: 'Excellent written, communication skills, and collaborative ability'
+        percent: 100
+        icon: comments
         icon_pack: fas
+      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -90,22 +104,16 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: '19111510052@fudan.edu.cn'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=u-IL0NgAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/XiaoqiongXia
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -117,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaoqiong Xia is a Ph.D. candidate at the Institutes of Biomedical Sciences, Fudan University, and expects to graduate in June 2024. Her Ph.D. advisor is Professor Lei Liu, who is a leading researcher in the field of bioinformatics. Her research interests focus on artificial intelligence for early-stage drug discovery. She worked on developing drug-target interaction, drug activity prediction, and molecular generation models by combining deep learning algorithms with computer-aid drug design tools. Her proposed methods facilitate drug discovery and repurposing.
 {style="text-align: justify;"}
