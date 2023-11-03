@@ -104,7 +104,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '19111510052@fudan.edu.cn'
+    link: 'mailto:19111510052@fudan.edu.cn'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=u-IL0NgAAAAJ&hl
