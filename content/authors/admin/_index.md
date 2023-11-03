@@ -21,6 +21,8 @@ role: Ph.D. focus on AI for drug discovery
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Institutes of Biomedical Sciences
+    url: https://ibs.fudan.edu.cn/
   - name: Fudan University
     url: https://www.fudan.edu.cn/en/
 
@@ -52,7 +54,7 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Professional skill
+  - name: Professional Skill and Personal Strength
     items:
       - name: Python (PyTorch), R, Linux, GPU
         description: 'Familiar with Linux systems, proficient in R, Python, and PyTorch framework to build, train, and test models and GPU acceleration.'
@@ -79,22 +81,17 @@ skills:
         percent: 100
         icon: list
         icon_pack: fas
-
-
-  - name: personal strength
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Languge
+      - name: Language
         description: 'Good English reading and writing skills, CET-6:558'
         percent: 100
-        icon: books
+        icon: pen-nib
         icon_pack: fas
       - name: Social contact
         description: 'Excellent written, communication skills, and collaborative ability'
         percent: 100
         icon: comments
         icon_pack: fas
+
       
 
 # Social/Academic Networking
